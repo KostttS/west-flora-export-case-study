@@ -4,6 +4,17 @@ Mobile app for wholesale flower ordering with product catalog, categories, clien
 
 The project was built for a wholesale flower export business and focused on simplifying product ordering and customer interaction.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp_webp/159a1f201005589.666c0307a4a4d.jpg" alt="West Flora Export app screen 1" width="31%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp_webp/ebf7e9201005589.666c0307a6781.jpg" alt="West Flora Export app screen 2" width="31%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp_webp/03995f201005589.666c0307a519e.jpg" alt="West Flora Export app screen 3" width="31%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/201005589/West-Flora-Export)
+
 ---
 
 ## My role
